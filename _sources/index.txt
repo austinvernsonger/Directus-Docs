@@ -34,11 +34,24 @@ This is the complete documentation of the Directus framework.
    :maxdepth: 2
    :caption: User Guide
 
+   USG1-Login
+   USG2-Tables
+   USG3-Item-Listing
+   USG4-Create-and-Edit-Items
+   USG5-Files
+   USG6-Messages
+   USG7-User-and-Groups
 
 .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Interfaces
+
+   I1-Core
+   I2-Relational
+   I3-Custom
+   I4-System-and-other
+
 
 .. toctree::
    :hidden:
