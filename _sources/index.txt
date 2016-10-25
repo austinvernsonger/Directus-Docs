@@ -42,6 +42,7 @@ This is the complete documentation of the Directus framework.
    USG6-Messages
    USG7-User-and-Groups
 
+
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -51,6 +52,7 @@ This is the complete documentation of the Directus framework.
    I2-Relational
    I3-Custom
    I4-System-and-other
+
 
 
 .. toctree::

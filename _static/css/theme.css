@@ -4305,7 +4305,7 @@ div[class^='highlight'] pre {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 80%;
-    color: #555;
+    color: #7ed321;
     white-space: nowrap;
 }
 
@@ -4611,7 +4611,7 @@ div[class^='highlight'] pre {
     overflow-x: hidden;
     overflow-y: hidden;
     min-height: 100%;
-    background: #343131;
+    background: #02446d;
     z-index: 200;
 }
 
